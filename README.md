@@ -1,2 +1,2 @@
-# Lab-POK
-Source code POK
+# LAB_POK
+Kumpulan Tugas Lab POK
